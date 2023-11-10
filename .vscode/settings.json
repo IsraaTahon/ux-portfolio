@@ -1,0 +1,12 @@
+{
+    "xd.globalEditor": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.wordWrapColumn": 50,
+    "editor.columnSelection": false,
+    "workbench.tree.indent": 4,
+    "editor.autoIndent": "brackets",
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true
+}
